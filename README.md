@@ -6,7 +6,7 @@ MINE 4101 – CIENCIA DE DATOS APLICADA - TALLER 1
 
 
 
-# Ejecucuion de notebooks:
+# Orden de Ejecucion de los notebooks:
 1.  Untitled6
 2. Untitled9
 
