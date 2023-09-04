@@ -6,7 +6,7 @@ MINE 4101 – CIENCIA DE DATOS APLICADA - TALLER 1
 
 
 
-# PASOS:
+# Ejecucuion de notebooks:
 1.  Untitled6
 2. Untitled9
 
