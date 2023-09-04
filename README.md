@@ -1,8 +1,10 @@
 # Gabriel Hernandez Reyes
 
  
-MINE 4101 – CIENCIA DE DATOS APLICADA - # TALLER 1 #
-# Caso: Inversiones inmobiliarias para alquiler vacacional.
+MINE 4101 – CIENCIA DE DATOS APLICADA 
+# TALLER 1 
+Caso: Inversiones inmobiliarias para alquiler vacacional
+# Buenos Aires -  Argentina
 
 
 
